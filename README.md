@@ -44,7 +44,7 @@
 ### 🛒 VendorStreet – Raw Material Sourcing App for Street Vendors  
 A full‑stack platform that connects street vendors with local suppliers for fresh ingredients.  
 **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB  
-🔗 [Live on Vercel](https://vendorstreet.vercel.app) • [GitHub Repo](https://github.com/anshikadaksh06/vendorstreet)
+
 
 ---
 
