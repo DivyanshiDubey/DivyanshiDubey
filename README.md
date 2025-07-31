@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 👩‍🎓AI student passionate about **Web Development** & **Python Programming**
-- 🧱 Currently building a **Google Clone** using HTML, CSS, and JavaScript
+- 🧱 Currently building a **VanderStreet** using HTML, CSS, and JavaScript
 - 🔁 Exploring **DSA in Python**, **SQL**, and backend development
 - 💬 Open to collaborating on beginner-friendly web projects, event tech, and frontend interfaces
 
