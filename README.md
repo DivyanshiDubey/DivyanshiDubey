@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 B.Tech in Computer Science (AI) — BBDU, Lucknow <br>
-📍 India • 🌐 Full Stack Development Enthusiast • 💡 IEEE Member • 🎤 Event Host
+📍 India • 🌐 Full Stack Development Enthusiast • 
 </p>
 
 ---
@@ -12,7 +12,6 @@
 - 👩‍🎓 Third-year AI student passionate about **Web Development** & **Python Programming**
 - 🧱 Currently building a **Google Clone** using HTML, CSS, and JavaScript
 - 🔁 Exploring **DSA in Python**, **SQL**, and backend development
-- 📣 Hosted the **IEEE Inauguration Ceremony** at BBDU
 - 💬 Open to collaborating on beginner-friendly web projects, event tech, and frontend interfaces
 
 ---
@@ -42,7 +41,6 @@
 
 ## ✨ Highlights
 
-- 🧑‍🏫 IEEE Member | Hosted first IEEE event at BBDU
 - 💻 Learning **Full Stack Development** (HTML, CSS, JS, Python, SQL)
 - 🔗 GitHub Projects: Google Clone, Python Practice Repos
 - 🎯 Goal: Become a confident and consistent Full Stack Developer
