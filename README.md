@@ -42,7 +42,7 @@
 ## ✨ Highlights
 
 - 💻 Learning **Full Stack Development** (HTML, CSS, JS, Python, SQL)
-- 🔗 GitHub Projects: Google Clone, Python Practice Repos
+- 🔗 GitHub Projects: To-Do-List, Weather App, Blog, Personal Portfolio 
 - 🎯 Goal: Become a confident and consistent Full Stack Developer
 
 ---
