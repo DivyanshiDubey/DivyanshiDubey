@@ -2,15 +2,15 @@
 
 <p align="center">
 🎓 B.Tech in Computer Science (AI) — BBDU, Lucknow <br>
-📍 India • 🌐 Full Stack Development Enthusiast • 
+📍 India • 🌐 Full Stack Development Enthusiast
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 👩‍🎓AI student passionate about **Web Development** & **Python Programming**
-- 🧱 Currently building a **VendorStreet** using HTML, CSS, and JavaScript
+- 👩‍🎓 AI student passionate about **Web Development** & **Python Programming**
+- 🛒 Currently building **VendorStreet** – a full-stack raw material sourcing app for street vendors
 - 🔁 Exploring **DSA in Python**, **SQL**, and backend development
 - 💬 Open to collaborating on beginner-friendly web projects, event tech, and frontend interfaces
 
@@ -41,8 +41,15 @@
 
 ## ✨ Highlights
 
+### 🛒 VendorStreet – Raw Material Sourcing App for Street Vendors  
+A full‑stack platform that connects street vendors with local suppliers for fresh ingredients.  
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB  
+🔗 [Live on Vercel](https://vendorstreet.vercel.app) • [GitHub Repo](https://github.com/anshikadaksh06/vendorstreet)
+
+---
+
 - 💻 Learning **Full Stack Development** (HTML, CSS, JS, Python, SQL)
-- 🔗 GitHub Projects: To-Do-List, Weather App, Blog, Personal Portfolio 
+- 🔗 GitHub Projects: VendorStreet, To-Do-List, Weather App, Blog, Personal Portfolio
 - 🎯 Goal: Become a confident and consistent Full Stack Developer
 
 ---
@@ -58,6 +65,7 @@
 ---
 
 <p align="center"><i>Last updated: July 2025 • Thanks for visiting! 🌻</i></p>
+
 
 
 
